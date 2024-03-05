@@ -8,7 +8,9 @@
 
 ### É um MVP que tá só começando e ainda tem muitas funcionalidades novas para serem desenvolvidas.
 
-### Baseado em curso de formação para atualização profissional chamado “Angular: torne sua aplicação interativa e personalizada com animações”, disponibilizado pela Alura e ministrado pela instrutora Nayanne Batista. Nesta oportunidade pude atualizar meus conhecimentos em:
+### Baseado nos cursos de formação para atualização profissional. O primeiro curso  chamado “Angular: torne sua aplicação interativa e personalizada com animações” e o segundo curso chama-se "Angular: aprimore suas técnicas de animação e crie interfaces ainda mais atraentes", disponibilizado pela Alura e ministrado pela instrutora Nayanne Batista. Nesta oportunidade pude atualizar meus conhecimentos em:
+
+#### Primeiro curso
 
 * Aprender a utilizar o módulo de animações do Angular
 * Entender como adicionar gatilhos nos elementos do template com o método trigger
@@ -16,6 +18,16 @@
 * Aplicar diferentes formas de adicionar animações às transições de estado do elemento com os métodos transition e animate
 * Conhecer os estados reservados void e coringa
 * Animar elementos que não estão anexados ao DOM com :enter e :leave
+
+#### Segundo curso
+
+* Adicionar estilos intermediários às animações com keyframes
+* Personalizar a velocidade e aceleração usando cubic-bezier
+* Criar animações simultâneas com group
+* Animar elementos aninhados com query
+* Atualizar dados da aplicação utilizando BehaviorSubject
+* Sequenciar as animações com stagger
+* Desabilitar animações quando necessário
 
 ## 🛠️ Instalação
 
