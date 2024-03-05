@@ -38,8 +38,8 @@
     {
       "id": 7,
       "descricao": "Estudar Angular",
-      "statusFinalizado": false,
-      "categoria": "Casa",
+      "categoria": "Estudos",
+      "statusFinalizado": true,
       "prioridade": "Alta"
     }
   ]
